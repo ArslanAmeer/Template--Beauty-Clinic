@@ -1,0 +1,175 @@
+/*==========================================================================================
+								Primery Theme Colors										
+==========================================================================================*/
+/*=============================================
+			Theme Text Color
+=============================================*/
+a,
+.clr,
+p a,
+p a:hover,
+a:hover,
+a:focus,
+a:active,
+.hb-info li a:hover,
+.hb-navigation ul li:hover a,
+.v2 .hb-info li span a:hover,
+.hb-navigation ul li .sub-menu li a:hover,
+.v3 .hb-cartarea a:hover,
+.v3 .hb-searcharea a:hover,
+.v4 .hb-searcharea a:hover,
+.v4 .hb-cartarea a:hover,
+.hb-homeslider.v4 .hb-slidercontent a:hover,
+.hb-whychooseus-list li:after,
+.hb-counter h3,
+.pricingcontent h3 span,
+.hb-pricingbox:hover .hb-btn,
+.hb-pricingbox.active .hb-btn,
+.hb-uthername h3,
+.hb-filterbale-nav li a:hover,
+.hb-filterbale-nav li a.active,
+.hb-testimonialsthumbslider .hb-prev:hover,
+.hb-testimonialsthumbslider .hb-next:hover,
+.hb-productscontent h3 span,
+.hb-pricinglistbox li span,
+.hb-aboutusvideo .hb-video-btn:hover,
+.hb-gift-price span,
+.hb-categories ul li:after,
+.hb-postmeta-area .hb-postmeta em,
+.hb-posttage li a:hover,
+.hb-bloggrid.blogfullwidth .hb-posttitle h3 a:hover,
+.hb-pagination ul li a:hover,
+.hb-blogdetails .hb-treatmentlist li:before,
+.hb-blogdetails .hb-uthername,
+.hb-socialshare ul li a:hover,
+.hb-comment-date,
+.hb-panel h4 a:hover,
+.cart-table .price,
+.cart-list .price,
+.hb-cart-widget .price,
+.hb-content-block .hb-btn,
+.hb-shoparea-detail .price,
+.hb-categories.hb-categories2 ul a span,
+.hb-categories.hb-categories2 ul a:hover,
+.hb-shoparea-detail .social-network a:hover,
+.hb-pricingplan .tab-content .price
+ 
+{color: #fac0f9;}
+ 
+
+
+
+
+.v2 .hb-info li i{
+	background: -webkit-linear-gradient(left, #acaaff 0%, #fbbaf8 100%);
+	background: -o-linear-gradient(left, #acaaff 0%, #fbbaf8 100%);
+	background: linear-gradient(to right, #acaaff 0%, #fbbaf8 100%);
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+}
+.v5 .hb-searcharea a:hover,
+.v5 .hb-cartarea a:hover,
+.v5 .hb-navigation ul li:hover a,
+.v5 .hb-navigation ul li:active a,
+.v5 .hb-navigation ul li:focus a,
+.v5 .hb-withoutbackground li a:hover i,
+.v5 .hb-navigation ul li .sub-menu li a:hover,
+.hb-footer.v3 .hb-socialicons li a:hover i,
+.hb-footer.v3 .hb-socialicons li a:focus i,
+.hb-footer.v3 .hb-socialicons li a:active i,
+.hb-footer.v3 .hb-footernav li a:hover,
+.hb-footer.v3 .hb-footernav li a:active,
+.hb-footer.v3 .hb-footernav li a:focus,
+.hb-homeslider.v5 .hb-btn:hover
+
+
+
+
+ {color: #7ac284;}
+/*=============================================
+			Theme Background Color
+=============================================*/
+.hb-dropdowarrow,
+.navbar-toggle,
+.hb-panel h4:after,
+.hb-tags ul li .hb-tagbtn:hover,
+.hb-tags ul li .hb-tagbtn:hover,
+.search-popup .close-btn
+{background:#fac0f9;}
+
+
+
+.hb-btn,
+.hb-socialicons li a, 
+.hb-socialicons.hb-socialicons-sm li a:hover,
+.hb-cart li .hb-btn.changehover:hover,
+.v2 .hb-navigationarea,
+.hb-prev:hover,
+.hb-next:hover,
+.hb-homeslider.v4 .hb-slidercontent:after,
+.hb-paradiseiconbox,
+.hb-btn.bdr:hover:after,
+.hb-roundicon li .hb-g-icon.change-bg,
+.hb-giftcertificates-box:hover .hb-giftbtn,
+.hb-content-block,
+.tab-holder .tab-list .active a,
+.tab-holder .tab-list a:hover,
+#back-top,
+.hb-shoparea-detail .img-holder .hb-zoom-btn
+{background-image: linear-gradient(to right,#aaaaff 0%,#fcbaf8 51%,#aaaaff 100%);}
+
+
+
+.hb-topbar,
+.hb-footer.v2 .hb-info li:before,
+.hb-footer.v2 .hb-info li a:hover,
+.hb-pricingbox:hover,
+.hb-pricingbox.active,
+.countdownHolder:after,
+.hb-comingsooncounter:after,
+.hb-testimonialbox:hover .hb-testimonialcontentbox,
+.hb-testimonialbox .hb-testimonialcontentbox.active
+{background: rgba(170,170,255,1);
+background: -moz-linear-gradient(left, rgba(170,170,255,1) 0%, rgba(251,186,248,1) 100%);
+background: -webkit-gradient(left top, right top, color-stop(0%, rgba(170,170,255,1)), color-stop(100%, rgba(251,186,248,1)));
+background: -webkit-linear-gradient(left, rgba(170,170,255,1) 0%, rgba(251,186,248,1) 100%);
+background: -o-linear-gradient(left, rgba(170,170,255,1) 0%, rgba(251,186,248,1) 100%);
+background: -ms-linear-gradient(left, rgba(170,170,255,1) 0%, rgba(251,186,248,1) 100%);
+background: linear-gradient(to right, rgba(170,170,255,1) 0%, rgba(251,186,248,1) 100%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#aaaaff', endColorstr='#fbbaf8', GradientType=1 );
+}
+/*=====================Color with opacity========================*/
+.hb-postimage:before,
+.hb-gallerycontent
+{background: rgba(170,170,255,0.8);
+background: -moz-linear-gradient(left, rgba(170,170,255,0.8) 0%, rgba(251,186,248,0.8) 100%);
+background: -webkit-gradient(left top, right top, color-stop(0%, rgba(170,170,255,0.8)), color-stop(100%, rgba(251,186,248,0.8)));
+background: -webkit-linear-gradient(left, rgba(170,170,255,0.8) 0%, rgba(251,186,248,0.8) 100%);
+background: -o-linear-gradient(left, rgba(170,170,255,0.8) 0%, rgba(251,186,248,0.8) 100%);
+background: -ms-linear-gradient(left, rgba(170,170,255,0.8) 0%, rgba(251,186,248,0.8) 100%);
+background: linear-gradient(to right, rgba(170,170,255,0.8) 0%, rgba(251,186,248,0.8) 100%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#aaaaff', endColorstr='#fbbaf8', GradientType=1 );
+}
+.hb-footer.v3 .hb-socialicons li a,
+.hb-homeslider.v5 .hb-btn,
+.hb-homeslider.v5 .hb-prev:hover,
+.hb-homeslider.v5 .hb-next:hover,
+.hb-sectiontitle.v3:before
+ {background: #7ac284;}
+/*=============================================
+			Theme Border Color
+=============================================*/
+input:focus,
+.select select:focus,
+.form-control:focus,
+.hb-thumb figure img,
+.hb-tags ul li .hb-tagbtn:hover,
+.hb-tags ul li .hb-tagbtn:hover
+{ border-color: #fac0f9; }
+.hb-servicebox:hover .hb-serviceimg:after,
+.hb-teambox:hover .hb-teamimg:after
+{border-color: rgba(252,186,248,0.5);}
+
+.hb-footer.v3 .hb-socialicons li a,
+.hb-homeslider.v5 .hb-btn
+{border-color: #7ac284;}
